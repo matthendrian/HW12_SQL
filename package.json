@@ -1,0 +1,23 @@
+{
+    "name": "hw12",
+    "version": "1.0.0",
+    "description": "sql employee database homework.",
+    "main": "index2.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Matt Hendrian",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^24.9.0"
+    },
+    "dependencies": {
+        "console.table": "^0.10.0",
+        "inquirer": "^8.1.0",
+        "mysql": "^2.18.1",
+        "mysql2": "^2.3.0"
+    }
+}
