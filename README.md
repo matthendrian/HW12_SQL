@@ -4,6 +4,7 @@
 
   ## HW12 - SQL Employee Database 
 
+VIDEO LINK: https://youtu.be/eJcKJ9dbN48
 
 ### Licensing
   This project is licensed under MIT, https://opensource.org/licenses/MIT
@@ -13,7 +14,7 @@
 ### Description
   HW 12 allows the user to develop an employee database from scratch using nothing but the command line. 
 ### Installation Intstructions
-  Please make sure that an npm install is done for the following packages: node, express, inquirer, and console.table. If these are not installed, the program will not work properly. 
+  Please make sure that an npm install is done for the following packages: node, express, inquirer, and console.table. If these are not installed, the program will not work properly. mysql is also critical to have installed. 
 ### Usage 
   N/A
 ### Contribution
